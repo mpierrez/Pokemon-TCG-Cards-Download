@@ -1,7 +1,7 @@
 # Pokémon TCG Pocket - Cards Download
 
 > [!NOTE]
-> The latest excel contains cards from the extension **Celestial Guardians** released on **April 24, 2025**.
+> The latest excel contains cards from the extension **Extradimensional Crisis** released on **May 29, 2025**.
 
 
 ## Description
@@ -19,7 +19,7 @@ Each Pokémon card extension (e.g. Base Set, Items...) must have its own sheet i
 
 Each sheet should include the following columns:
 
-<img src="https://prnt.sc/HyXUhyH0Y2js"/>
+![Image](https://img001.prntscr.com/file/img001/ptHfX0oaQeKEhXHXhK8CwQ.png)
 
 - **card**: A human-readable label for informational purposes only (not required by the script).
 
